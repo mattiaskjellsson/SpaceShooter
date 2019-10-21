@@ -1,0 +1,7 @@
+{
+  "appId": "com.phasergame.mattias.www",
+  "appName": "PhaserGame",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
